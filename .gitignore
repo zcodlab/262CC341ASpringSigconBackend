@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#variables-entorno
+.env
+.env-local
+.env-neon
